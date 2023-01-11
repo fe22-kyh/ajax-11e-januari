@@ -1,0 +1,1 @@
+hey this is a message from message.txt and was fetched with ajax
