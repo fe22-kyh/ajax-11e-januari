@@ -6,7 +6,7 @@
 
 ## Material
 1. [Jquery get request](https://api.jquery.com/jquery.get/)
-2. [Fetch get request](https://www.javascripttutorial.net/javascript-fetch-api/)
+2. Går igenom på fredag [Fetch get request](https://www.javascripttutorial.net/javascript-fetch-api/)
 
 
 ## Övningar
